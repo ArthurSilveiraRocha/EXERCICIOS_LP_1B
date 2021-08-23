@@ -1,1 +1,1 @@
-print(pow(3,2))
+print("Olá mundo!!")
